@@ -1,0 +1,8 @@
+requests
+json
+bs4
+
+requests
+os
+bs4
+typhoon-ocr
